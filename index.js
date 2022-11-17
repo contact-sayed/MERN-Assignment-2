@@ -39,5 +39,5 @@ var server=http.createServer(function (req,res) {
     }
 
 });
-server.listen(8080);
+server.listen(1236);
 console.log("Server Run Success");
